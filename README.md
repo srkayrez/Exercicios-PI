@@ -1,4 +1,5 @@
 # DESAFIADOS 2022
+# A maneira que fiz os exercicios é a maneira pedida no ex10.
 # Exercícios: Tipos Primitivos, Variáveis, Operadores Aritméticos
 1) Desenvolver um algoritmo que calcule a idade média dos alunos de uma classe da faculdade, sabendo que o aluno mais novo tem 20 anos e o mais velho tem 50 anos, utilize a seguinte fórmula para calcular: MEDIA ALUNO = (IDADE MÍNIMA + IDADE MÁXIMA) / 2; (05 pontos)
 2) Desenvolver um algoritmo que leia a cotação do euro converta para o Real, calcule a compra de 750 euros e imprima o resultado; (05 pontos)
